@@ -25,7 +25,9 @@
 <hr>
 <br>
 ## 🛠️ Languages and Tools
+
 <br>
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cs,py,go,cpp,dotnet,fastapi,ai,react,nextjs,mongodb,flask,postgres,mysql,docker" />
   <img src="https://skillicons.dev/icons?i=azure,aws,opencv,sklearn,html,css,tailwind,js,ts,vue,redux,git,postman,tensorflow,figma," />
