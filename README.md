@@ -14,7 +14,7 @@
   <a href="ishansinha.cool@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/chijiokeokorji" target="_blank">
+  <a href="[https://linkedin.com/in/chijiokeokorji](https://www.linkedin.com/in/ishan-sinha-0b30a6130/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 <!--   <a href="https://codepen.io/chijiokeokorji" target="_blank">
@@ -25,6 +25,7 @@
 <hr>
 <br>
 ## 🛠️ Languages and Tools
+<br>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cs,py,go,cpp,dotnet,fastapi,ai,react,nextjs,mongodb,flask,postgres,mysql,docker" />
   <img src="https://skillicons.dev/icons?i=azure,aws,opencv,sklearn,html,css,tailwind,js,ts,vue,redux,git,postman,tensorflow,figma," />
